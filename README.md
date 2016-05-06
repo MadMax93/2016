@@ -19,7 +19,10 @@
 * 4 min discussion
 
 ## Deliverables
-Webpage here
+Webpage uploaded to Github
+
+http://github.com/hst936/2016/projectname/
+
 * Project background
 * Process
 * Results
