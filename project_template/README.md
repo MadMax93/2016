@@ -1,6 +1,6 @@
 # Project Title
 
-![Image Test](/images/hst936_slack_thumbnail.png)
+![Image Test](/project_template/images/hst936_slack_thumbnail.png)
 
 ## Background
 
