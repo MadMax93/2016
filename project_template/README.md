@@ -1,5 +1,7 @@
 # Project Title
 
+(/images/hst936_slack_thumbnail.png)
+
 ## Background
 
 ## Methods
