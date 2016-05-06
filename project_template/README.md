@@ -10,4 +10,4 @@
 
 ## Team Members
 
-## References/Resources
+## Resources
