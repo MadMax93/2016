@@ -21,7 +21,7 @@
 ## Deliverables
 Webpage uploaded to Github
 
-http://github.com/hst936/2016/projectname/
+hst936/2016/*projectname*/
 
 * Project background
 * Process
