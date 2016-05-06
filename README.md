@@ -15,8 +15,8 @@
 11. Zika 2
 
 ## Schedule
-4 min presentation
-4 min discussion
+* 4 min presentation
+* 4 min discussion
 
 ## Deliverables
 Webpage here
