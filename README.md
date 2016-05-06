@@ -20,11 +20,15 @@
 
 ## Deliverables
 Project mardown page uploaded to Github. Submit a pull request for your project subfolder.
+Grades will not be submitted until the project page is committed.
 
-hst936/2016/*project_template*/
+hst936/2016/*project_name*/
 
 * Project background
 * Process
 * Results
 * Team members
 * References/Resources
+
+Additional information on Markdown:
+https://guides.github.com/features/mastering-markdown/
