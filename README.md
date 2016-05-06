@@ -19,9 +19,9 @@
 * 4 min discussion
 
 ## Deliverables
-Webpage uploaded to Github
+Project mardown page uploaded to Github. Submit a pull request for your project subfolder.
 
-hst936/2016/*projectname*/
+hst936/2016/*project_template*/
 
 * Project background
 * Process
